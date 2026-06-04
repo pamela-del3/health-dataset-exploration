@@ -22,7 +22,7 @@ https://data.cdc.gov/
 
 ## Example Output
 
-![Distribution](images/distribution.png)
+![Distribution](.../images/distribution.png)
 
 ## What I Learned
 - How to work with real health data
